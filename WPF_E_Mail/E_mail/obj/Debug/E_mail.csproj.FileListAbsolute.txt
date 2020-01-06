@@ -1,0 +1,8 @@
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.csprojAssemblyReference.cache
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.UserControl1.resources
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.csproj.GenerateResource.cache
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.csproj.CoreCompileInputs.cache
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\bin\Debug\E_mail.dll
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\bin\Debug\E_mail.pdb
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.dll
+C:\Users\rubicon.chen\Desktop\MyAPP\E_mail\E_mail\obj\Debug\E_mail.pdb
