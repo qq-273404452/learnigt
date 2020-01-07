@@ -1,0 +1,59 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+/WeChat.NET/WeChat.WPF/bin/x86/Debug
+/WeChat.NET/WeChat.Tools/bin/x86/Debug
+/WeChat.NET/WeChat.HTTP/bin/x86/Debug
+/WeChat.NET/WeChat.WPF/obj/x86/Debug
+/WeChat.NET/WeChat.Tools/obj/x86/Debug
+/WeChat.NET/WeChat.HTTP/obj/x86/Debug
+/WeChat.NET/WeChat.WPF/obj/Debug
+/WeChat.NET/WeChat.Tools/obj/Debug
+/WeChat.NET/WeChat.HTTP/obj/Debug
+/WeChat.NET/WeChat.Emoji/bin/Debug
+/WeChat.NET/WeChat.Emoji/obj/Debug
+/WeChat.NET/.vs/WeChat.NET/v14
